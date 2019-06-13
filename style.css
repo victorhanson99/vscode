@@ -37,13 +37,6 @@ html,body{
     background-repeat: no-repeat;
 }
 
-.container3{
-    width: 252rem;
-    height: 380rem;
-    background-image: url("../assets/minmama2.png");
-    background-repeat: no-repeat;
-}
-
 .menu{
     display: grid;
     grid-template-columns: 35em 31rem;
